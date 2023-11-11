@@ -1,2 +1,19 @@
-# Backend-Login
-Éste proyecto es Backend con Login y Auth utilizando JWT, Javascript, MongoDB y Node.js
+# Título del Proyecto
+
+Descripción concisa del proyecto.
+
+## Instalación
+
+Pasos para la instalación:
+
+1. Clona el repositorio.
+2. Instala las dependencias con `npm install`.
+
+## Uso
+
+Cómo utilizar o ejecutar el proyecto.
+
+```bash
+comando-de-ejecución
+
+npm run dev
